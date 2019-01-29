@@ -83,6 +83,14 @@ public class ApplicantActivity extends AppCompatActivity
 
         if (id == R.id.family_member) {
 
+        } else if (id == R.id.profile) {
+
+        } else if (id == R.id.nav_gallery) {
+
+        } else if (id == R.id.nav_slideshow) {
+
+        } else if (id == R.id.nav_manage) {
+
         }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
