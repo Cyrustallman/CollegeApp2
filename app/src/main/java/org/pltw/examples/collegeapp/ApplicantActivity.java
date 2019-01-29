@@ -78,11 +78,10 @@ public class ApplicantActivity extends AppCompatActivity
     @Override
     public boolean onNavigationItemSelected(MenuItem item) {
         // Handle navigation view item clicks here.
-        int id = item.getItemId();
+        int id;
+        id = item.getItemId();
 
         if (id == R.id.family_member) {
-            // Handle the camera action
-        } else {
 
         }
 
